@@ -1,0 +1,6 @@
+
+> rest-express@1.0.0 dev
+> NODE_ENV=development tsx server/index.ts
+
+[1G[0K1:58:32 AM [express] serving on port 5000
+1:58:39 AM [express] GET /api/scores 200 in 2ms :: []
